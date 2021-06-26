@@ -1,8 +1,8 @@
-- 👋 Hola, Mi nombre es Juan y en github elegí @Lukesky7 porque siempre me gustó Star Wars. Soy de La Plata, provincia de Buenos Aires, Argentina. / I'm Juan from La Plata, Buenos Aires, Argentina. Star Wars is not Science Fiction, never was...
-- 👀 Siempre me consideré una persona curiosa, buscando la quinta pata a todo / I’m interested in find and show...cats-five-legs :D 
-- 🌱 Actualmente realizo mi tesina para finalizar mi carrera de grado y me interesa continuar incorporando herramientas para desarrollarme como persona/ I’m currently finish my degree in Sociology and i want keep learning stuff and adding tools for develop as a person. ...
-- 💞️ Me interesan activadades donde pueda contribuir y rodearme de personas con pasión por lo que hacen y se dé un mutuo aprendizaje/I’m looking to collaborate on places where i could able to contribuite, teach and learn...
-- 📫 How to reach me ...
+- Hola, Mi nombre es Juan, hoy en La Plata, provincia de Buenos Aires, Argentina. / I'm Juan from La Plata, Buenos Aires, Argentina.
+
+- A veces le busco la quinta pata a todo / I’m interested in find and show...cats-five-legs :D 
+- 🌱 Siempre buscando aprender, perfeccionar y desarrollarme como persona
+- 📫 juanmanuelbtocho@yahoo.com 
 
 <!---
 Lukesky7/Lukesky7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
