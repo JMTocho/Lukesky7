@@ -1,6 +1,6 @@
 - Hola, Mi nombre es Juan, hoy en La Plata, provincia de Buenos Aires, Argentina. / I'm Juan from La Plata, Buenos Aires, Argentina.
 
-- A veces le busco la quinta pata a todo / I’m interested in find and show...cats-five-legs :D 
+- A veces le busco la quinta pata a todo / I always try to find and show...cats-five-legs :D 
 - 🌱 Siempre buscando aprender, perfeccionar y desarrollarme como persona
 - 📫 juanmanuelbtocho@yahoo.com 
 
